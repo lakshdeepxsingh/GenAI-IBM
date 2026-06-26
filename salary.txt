@@ -1,0 +1,5 @@
+Aman 45000
+Raman 60000
+Sania 55000
+Aditi 30000
+Rahul 70000
