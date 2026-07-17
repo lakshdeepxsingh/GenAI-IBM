@@ -1,8 +1,0 @@
-pip uninstall opencv-python
-
-python is>=3.13+
-
-3.8-3.12
-
-pip install opencv-contrib-python
-add opencv and python in environment variable 
