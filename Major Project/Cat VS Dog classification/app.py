@@ -13,7 +13,13 @@ st.set_page_config(
 
 # ---------------- LOAD MODEL ----------------
 
-model = tf.keras.models.load_model("cat_dog_model.keras")
+from tensorflow.keras.models import load_model
+
+@st.cache_resource
+def load_my_model():
+    return load_model("model/cat_dog_model.keras")
+
+model = load_my_model()
 
 st.markdown("""
 <style>
