@@ -34,32 +34,6 @@ https://github.com/user-attachments/assets/d0a38dbd-1e50-4c18-963d-d4cfbce6c4e5
 
 ---
 
-# 📁 Project Structure
-
-```text
-PetVision-AI/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── model/
-│   └── cat_dog_model.keras
-│
-├── notebook/
-│   └── image_classification.ipynb
-│
-└── Media/
-    ├── Dashboard.png
-    ├── Prediction-Result.png
-    ├── Predicted-History.png
-    ├── Saved-results.png
-    └── project-demo.mp4
-```
-
----
-
 # 🚀 Getting Started
 
 ### Clone the repository
